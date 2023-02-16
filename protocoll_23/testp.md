@@ -14,7 +14,13 @@ Protocol writer: Selina
 ---
 
 ## Reviews & open questions
-* Revisions of different Data types
+* Revisions of different Data types: Playing around with [this](https://docs.google.com/spreadsheets/d/13CJrQfQgLxOfNU80lUe5f8MSgnpLNNABQ18e3geT8Rk/edit#gid=435887093)
+* **Little Task of "when did you go to bed last night" 
+  Get the frequency of each time 
+  Get the mode
+  Count unique values
+  Frequency of these unique values against your dataset** 
+
 
 ---
 
@@ -41,8 +47,11 @@ Protocol writer: Selina
   - SPLIT
     > =SPLIT(A1,",")
 
-  - Pivottables
+  - Pivot-tables
   - Conditional Formating 
+
+
+## Google Sheets
   
 ## __Discussion Questions__
 
