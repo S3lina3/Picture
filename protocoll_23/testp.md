@@ -59,12 +59,14 @@ Protocol writer: Selina
 
 ## To Do 
 * Little Task of "when did you go to bed last night"
-* Each Group brainstorms some Information, they want to extract of their surveys 
+* Each Group brainstorms some Information they want to extract of their survey 
   
 ## __Discussion Questions__
 
 Q1. Where there any obstacles your group faced while phrasing your Google Survey? 
+
 Q2. Where there any interesting outcomes of your survey you did not anticipate? 
+
 Q3. Do you get Arrayformulas & can explain it in a few easy sentences? 
 
 ---
