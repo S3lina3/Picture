@@ -25,15 +25,15 @@ Protocol writer: Selina
 * the Presentation you can find [here](https://drive.google.com/drive/folders/1LhGGDjBChaDBS8rpO8QJULDWNlw5ICk-)
 * central Points of the Livedemo & Exercise: 
   - add and substract
-  > fx = colum1 - colum2
+    > fx = colum1 - colum2
   
   - if-Statements 
-  > fx = IF(c1>0; "profitable"; "not profitable")
+    > fx = IF(c1>0; "profitable"; "not profitable")
   
-  > fx =IF(c2<>0; "yes"; "no")
+    > fx =IF(c2<>0; "yes"; "no")
   
   - and-Statements
-  > fx =AND(c2<>0)
+    > fx =AND(c2<>0)
 
 ## __Discussion Questions__
 
