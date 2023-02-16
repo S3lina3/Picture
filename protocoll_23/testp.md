@@ -4,8 +4,8 @@ Protocol writer: Selina
 ## __Schedule__ 
 |Time|Notes|
 |---|---|
-|09:00 - 09:30|Protocol Groupreview|
-|09:30 - 10:30|Coaches review & open questions|
+|09:00 - 09:30|Group Review and discussions about Protocol|
+|09:30 - 10:30|Discussion with coaches|
 |10:30 - 13:00|Google Sheets| 
 |13:00 - 14:00|Lunch|   
 |14:00 - 16:00|Google Surveys| 
@@ -15,7 +15,7 @@ Protocol writer: Selina
 
 ## Reviews & open questions
 * Revisions of different [Data types](https://github.com/S3lina3/protokoll/blob/main/protocoll_23/Bildschirm%C2%ADfoto%202023-02-16%20um%2017.19.34.png): Playing around with [this](https://docs.google.com/spreadsheets/d/13CJrQfQgLxOfNU80lUe5f8MSgnpLNNABQ18e3geT8Rk/edit#gid=435887093)
-* **Little Task of "when did you go to bed last night"** 
+* **Homework: Little Task of "when did you go to bed last night"** 
     - Get the frequency of each time 
     - Get the mode
     - Count unique values
@@ -31,8 +31,6 @@ Protocol writer: Selina
 * the Presentation you can find [here](https://drive.google.com/drive/folders/1LhGGDjBChaDBS8rpO8QJULDWNlw5ICk-)
 * central Points of the Livedemo & Exercise: 
   - add and substract
-    > fx = colum1 - colum2
-  
   - if-Statements 
     > IF(logical_expression, value_if_true, value_if_false)
   
