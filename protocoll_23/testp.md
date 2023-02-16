@@ -61,11 +61,9 @@ Protocol writer: Selina
   
 ## __Discussion Questions__
 
-Q1. Where there any obstacles your group faced while phrasing your Google Survey? 
+Q1. Where there any obstacles your group faced while phrasing your Google Survey? Where there any interesting outcomes of your survey you did not anticipate? 
 
-Q2. Where there any interesting outcomes of your survey you did not anticipate? 
-
-Q3. Do you get Arrayformulas & can explain it in a few easy sentences? 
+Q2. Do you get Arrayformulas & can explain it? 
 
 ---
 
