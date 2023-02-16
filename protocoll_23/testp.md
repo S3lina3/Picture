@@ -13,25 +13,18 @@ Protocol writer: Selina
 
 ---
 
-## __Content Heading__ 
-* bullet points 
-* about content 
-* bold **text**
-* italic *text*
-* more text 
-* more text 
-* more text 
-* more text 
+## Reviews & open questions
+* Revisions of different Data types
 
 ---
 
-## __next content__ 
-* more text 
-* more text 
-* more text 
-* more text 
-* more text 
-* more text 
+## Google Sheets
+* Livedemo of Google Sheets
+* the Demosheet you can find [here](https://docs.google.com/spreadsheets/d/1kfnd1jlo0YmW8mVQPklunWny4QKNpmzn/edit#gid=334765052) 
+* the Exercise you can find [here](https://docs.google.com/document/d/1zsOzKMLWnmm6t4gVf-SEADPTwmfkmBYQ6dI7Xfk5e2M/edit)
+* the Presentation you can find [here](https://drive.google.com/drive/folders/1LhGGDjBChaDBS8rpO8QJULDWNlw5ICk-)
+* central Points of the Livedemo & Exercise: 
+  * 
 
 ## __Discussion Questions__
 
