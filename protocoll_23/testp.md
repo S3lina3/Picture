@@ -34,13 +34,20 @@ Protocol writer: Selina
   - if-Statements 
     > IF(logical_expression, value_if_true, value_if_false)
   
-  - and-Statements
+  - and/or-Statements
     > AND(logical_expression1, [logical_expression2, ...])
+    
+    > OR(logical_expression1, [logical_expression2, ...])
   
   - VLOOKUP
     > VLOOKUP(search_key, range, index, [is_sorted])
   
+  - INDEX & MATCH   
+    > INDEX(range1;MATCH(A1;range2); 0))
+    
   - [ARRAYFORUMLAS](https://coefficient.io/how-to-use-the-arrayformula-function-in-google-sheets#:~:text=ArrayFormula%20with%20IF%20function,IF%20formula%20as%20an%20ArrayFormula.&text=And%20you%20use%20an%20IF,A%20is%20more%20than%20%242%2C000.&text=You%20copy%20the%20formula%20down%20to%20run%20the%20test%20for%20each%20row.)
+
+**(are INDEX/MATCH & ARRAYFORMULAS the same?)**
    
   - SPLIT
     > =SPLIT(A1,",")
