@@ -28,13 +28,22 @@ Protocol writer: Selina
     > fx = colum1 - colum2
   
   - if-Statements 
-    > fx = IF(c1>0; "profitable"; "not profitable")
-  
-    > fx =IF(c2<>0; "yes"; "no")
+    > IF(logical_expression, value_if_true, value_if_false)
   
   - and-Statements
-    > fx =AND(c2<>0)
+    > AND(logical_expression1, [logical_expression2, ...])
+  
+  - VLOOKUP
+    > VLOOKUP(search_key, range, index, [is_sorted])
+  
+  - [ARRAYFORUMLAS](https://coefficient.io/how-to-use-the-arrayformula-function-in-google-sheets#:~:text=ArrayFormula%20with%20IF%20function,IF%20formula%20as%20an%20ArrayFormula.&text=And%20you%20use%20an%20IF,A%20is%20more%20than%20%242%2C000.&text=You%20copy%20the%20formula%20down%20to%20run%20the%20test%20for%20each%20row.)
+   
+  - SPLIT
+    > =SPLIT(A1,",")
 
+  - Pivottables
+  - Conditional Formating 
+  
 ## __Discussion Questions__
 
 Q1. Add a question about something that is shown in the above protocol like: How do you change text **bold** for headers and for **emphasis**?  
