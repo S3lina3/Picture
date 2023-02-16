@@ -51,17 +51,23 @@ Protocol writer: Selina
   - Conditional Formating 
 
 
-## Google Sheets
+## Google Forms
+* Livedemo of Google Forms 
+* the Demosheet you can find [here](https://docs.google.com/forms/d/1mxbhNE062eNR4U8wy13yjzU70xDHXPN_4AY-mQtpOKQ/edit) 
+* the Exercises you can find all over [here](https://drive.google.com/drive/folders/1LhGGDjBChaDBS8rpO8QJULDWNlw5ICk-)
+* the Presentation you can find [here](https://drive.google.com/drive/folders/19SD99mFGNUAkrdbH65yjjp-PKpIZ3gb2)
+
+## To Do 
+* Little Task of "when did you go to bed last night"
+* Each Group brainstorms some Information, they want to extract of their surveys 
   
 ## __Discussion Questions__
 
-Q1. Add a question about something that is shown in the above protocol like: How do you change text **bold** for headers and for **emphasis**?  
-Q2. Add a question about something more complex that is in the protocol, e.g. How do you make tables in markdown?  
-Q3. Add a question about something that was not clear to you or that is an extension of the course material. e.g. How do you include a gif in your markdown?  
+Q1. Where there any obstacles your group faced while phrasing your Google Survey? 
+Q2. Where there any interesting outcomes of your survey you did not anticipate? 
+Q3. Do you get Arrayformulas & can explain it in a few easy sentences? 
 
 ---
 
 ## __end: external links and websites__ 
-* [The advanced template in this repo](https://github.com/neuefische/da-daily-protocol/blob/main/advanced_version.md) 
-* [Markdown Cheatsheet on Github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
-* Another link
+* [Song of the Day](https://www.youtube.com/watch?v=HYsz1hP0BFo)
